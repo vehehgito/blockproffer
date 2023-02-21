@@ -12,7 +12,7 @@ A decentralized voting system built on the Ethereum blockchain.
 
 ## Introduction
 
-BlockProffer is a decentralized voting system built on the Ethereum blockchain. It is a web application that allows users to create and vote on ballots. The application is built using React, a JavaScript library for building user interfaces, and web3.js, a JavaScript library that allows for interaction with the blockchain. The smart contract is written in Solidity, a contract-oriented, high-level language for implementing smart contracts on the Ethereum blockchain.
+BlockProffer is a decentralized voting system built on the Ethereum blockchain. It is a web application that allows users to create and vote on polls. The application is built using React, a JavaScript library for building user interfaces, and web3.js, a JavaScript library that allows for interaction with the blockchain. The smart contract is written in Solidity, a contract-oriented, high-level language for implementing smart contracts on the Ethereum blockchain.
 
 ## Features
 
